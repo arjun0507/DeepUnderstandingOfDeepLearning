@@ -34,17 +34,6 @@ DeepUnderstandingOfDeepLearning/
 └── README.md — Documentation  
 
 ---
-
-git clone https://github.com/arjun0507/DeepUnderstandingOfDeepLearning.git
-
-cd DeepUnderstandingOfDeepLearning
-python -m venv venv
-venv\Scripts\activate # On Windows
-
-or source venv/bin/activate # On Linux/macOS
-
-pip install -r requirements.txt
-
 3️⃣ Explore topics in sequence (start with 01_fundamentals.ipynb).
 
 ---
@@ -109,3 +98,14 @@ For learning and educational use — please credit when reusing materials.
 
 ## 🚀 Getting Started
 1️⃣ Clone the repo and install dependencies:
+
+git clone https://github.com/arjun0507/DeepUnderstandingOfDeepLearning.git
+
+cd DeepUnderstandingOfDeepLearning
+python -m venv venv
+venv\Scripts\activate # On Windows
+
+or source venv/bin/activate # On Linux/macOS
+
+pip install -r requirements.txt
+

@@ -6,3 +6,4 @@ Master deep learning in PyTorch using an experimental scientific approach, with 
 
 See https://www.udemy.com/course/deeplearning_x/?couponCode=202502 for more details, preview videos, and to enroll in the full course.
 
+# DeepUnderstandingOfDeepLearning
